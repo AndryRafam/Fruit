@@ -2,6 +2,7 @@
 
 This little project is about classifying fruits (33 different types).
 In order to achieve our goal, we are going to use two methods:
+    
     - 1) Building our own model from scratch.
     - 2) Using Transfer learning techniques. 
 
